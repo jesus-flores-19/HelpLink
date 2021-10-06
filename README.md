@@ -18,3 +18,6 @@ Este repositorio sera un gran elemento al momento de desarrollar mis proyectos
 
 ## Apis
 - https://developer.spotify.com/
+
+## Imagenes
+- [Background image con gradiente transparente](https://stackoverflow.com/questions/5681813/transparent-background-image-with-a-gradient)
