@@ -15,3 +15,6 @@ Este repositorio sera un gran elemento al momento de desarrollar mis proyectos
 
 ## Iconos
 - https://fonts.google.com/icons
+
+## Apis
+- https://developer.spotify.com/
