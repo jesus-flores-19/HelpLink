@@ -22,6 +22,8 @@ Este repositorio sera un gran elemento al momento de desarrollar mis proyectos
 ## Apis
 - [Api de Spotify](https://developer.spotify.com/)
 - [Api de paises](https://restcountries.eu/)
+- [Api de Peliculas](https://www.themoviedb.org/)
+
 
 ## Imagenes
 - [Background image con gradiente transparente](https://stackoverflow.com/questions/5681813/transparent-background-image-with-a-gradient)
