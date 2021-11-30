@@ -15,6 +15,7 @@ Este repositorio sera un gran elemento al momento de desarrollar mis proyectos
 
 ## Diseño
 - Generador de [Swipper](https://swiperjs.com/)
+- Colores [pagina](https://coolors.co/)
 
 ## Json
 - Analisis y tipeado de informacion con [quicktype](https://quicktype.io/)
