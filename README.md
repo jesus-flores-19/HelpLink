@@ -1,6 +1,6 @@
 # HelpLink
 
-Este repositorio sera un gran elemento al momento de desarrollar mis proyectos 
+Este repositorio sera un gran elemento al momento de desarrollar mis proyectos, son algunos links a paginas que llego a usar recurrentemente para continuar mi desarrollo como programador
 
 ## Cursos
 - [Cursos de Udemy](https://www.udemy.com/)
